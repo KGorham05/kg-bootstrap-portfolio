@@ -106,7 +106,7 @@ body {
     color: #ffffff;
     color: #cccccc;
     text-align: center;
-    background: #666666;
+    background: #282828;
     border-top: 8px solid #4aaaa5;
     height: 50px;
   }
@@ -171,8 +171,8 @@ body {
   
   .auth-image {
     float: left;
-    width: 200px;
-    height: auto;
+    /* width: 259px;
+    height: auto; */
     margin-top: 10px;
     margin-right: 25px;
   }
@@ -223,3 +223,11 @@ body {
     float:right;
     position:relative;
   }
+
+  .headshot {=
+    opacity: .5;
+  }
+
+  /* Media Queries */
+
+  /* @media screen and (max-width: ) */
